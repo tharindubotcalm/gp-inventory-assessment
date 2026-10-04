@@ -1,0 +1,28 @@
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  background: #f4f6f8;
+  color: #1f2933;
+}
+
+.card {
+  border-color: #d9e1e8;
+  box-shadow: none;
+}
+
+.card-header {
+  background: #ffffff;
+  border-bottom-color: #d9e1e8;
+}
+
+.table thead th {
+  background: #17365d;
+  color: #ffffff;
+  border-bottom: 0;
+  font-size: 0.85rem;
+}
+
+.btn-primary {
+  background: #2f75b5;
+  border-color: #2f75b5;
+}
